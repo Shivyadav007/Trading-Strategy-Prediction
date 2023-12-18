@@ -1,5 +1,4 @@
-# The project aims to prepare a model and find optimal trading strategy using the data extracted
-# from Bitmex. The projects consists of two stages. The first stage has three parts:
+# The project aims to prepare a model and find optimal trading strategy using the data extracted from Bitmex. The projects consists of two stages. The first stage has three parts:
 1. Extracting data from the Bitmex trading platform
 2. Using candlestick diagrams to predict market sentiment. Also, enhance this result using the
 XGBoost algorithm. This is a classification problem
